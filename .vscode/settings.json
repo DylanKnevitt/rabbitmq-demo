@@ -1,9 +1,0 @@
-{
-    "workbench.colorCustomizations": {
-        "statusBar.background": "#5dc9e2",
-        "statusBarItem.hoverBackground": "#32bbda",
-        "statusBar.foreground": "#15202b"
-    },
-    "peacock.color": "#5dc9e2",
-    "deepcode.review.results.hideInformationIssues": false
-}
